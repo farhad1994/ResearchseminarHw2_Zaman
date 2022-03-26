@@ -1,0 +1,1 @@
+A travel blog contains pages and posts. Each of your travel articles are called “blog posts,” which can include travel guides, itineraries, and other unique topics. The main pages on your site, which often appear at the top, may include an “About” and “Contact” page.
